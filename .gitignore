@@ -5,6 +5,9 @@
 *.tfstate
 *.tfstate.*
 
+*.git
+*.git/*
+
 # Crash log files
 crash.log
 
